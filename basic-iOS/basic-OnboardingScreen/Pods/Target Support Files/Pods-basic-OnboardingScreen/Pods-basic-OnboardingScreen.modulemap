@@ -1,0 +1,6 @@
+framework module Pods_basic_OnboardingScreen {
+  umbrella header "Pods-basic-OnboardingScreen-umbrella.h"
+
+  export *
+  module * { export * }
+}
